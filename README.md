@@ -26,7 +26,7 @@ Con base a estos datos, respondere la pregunta planteada.
 
 ## LookerStudio:
 
-
+- <a href="https://lookerstudio.google.com/reporting/54cc64fa-5423-4298-8f93-30781fc33d29" target="_blank">Dashboard</a>
 
 ---
 
