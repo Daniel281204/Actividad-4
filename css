@@ -105,9 +105,9 @@ footer{
 }
 img.footerico{
   width: auto;
-  height: 5vh;
+  height: 7vh;
   margin: auto;
-  padding: 5px;
+  padding: 10px;
 }
 
 ::-webkit-scrollbar {
