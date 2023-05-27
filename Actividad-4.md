@@ -13,7 +13,7 @@ NRC: 4519
 
 Con base a estos datos, respondere la pregunta planteada.
 
-## ¿Cuáles son las áreas geográficas con la mayor cantidad de accidentes?
+## ¿Cuáles son los departamentos con la mayor cantidad de accidentes?
 
 ### Consulta SQL:
 
